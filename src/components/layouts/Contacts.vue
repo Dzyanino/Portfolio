@@ -15,10 +15,10 @@
                         <span class="text-ot-description">
                             You can send an e-mail or directly message me
                         </span>
-                        <div class="d-flex flex-column flex-sm-row justify-center justify-md-start">
-                            <v-btn color="#385963" prepend-icon="mdi-github" class="my-2 my-sm-0 mx-8 mx-sm-2 mx-md-1 mx-lg-2">Github</v-btn>
-                            <v-btn color="#385963" prepend-icon="mdi-gmail" class="my-2 my-sm-0 mx-8 mx-sm-2 mx-md-1 mx-lg-2">Gmail</v-btn>
-                            <v-btn color="#385963" prepend-icon="mdi-facebook" class="my-2 my-sm-0 mx-8 mx-sm-2 mx-md-1 mx-lg-2">Facebook</v-btn>
+                        <div class="d-flex flex-column flex-sm-row justify-center justify-md-start mt-1">
+                            <v-btn color="#385963" prepend-icon="mdi-github" class="my-2 my-sm-0 mx-8 mx-sm-2 ml-md-0 mr-md-1 mr-lg-2">Github</v-btn>
+                            <v-btn color="#385963" prepend-icon="mdi-gmail" class="my-2 my-sm-0 mx-8 mx-sm-2 ml-md-0 mr-md-1 mr-lg-2">Gmail</v-btn>
+                            <v-btn color="#385963" prepend-icon="mdi-facebook" class="my-2 my-sm-0 mx-8 mx-sm-2 ml-md-0 mr-md-1 mr-lg-2">Facebook</v-btn>
                         </div>
                     </v-col>
 
