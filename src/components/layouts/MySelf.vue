@@ -25,10 +25,9 @@
                             <span>Web and Desktop developer</span>
                         </span>
                         <span class="text-ot-description">
-                            I'm blablabla Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit. Quam, officiis non quo temporibus id
-                            reiciendis illo fugit alias sequi ipsum! Doloribus fugit
-                            sapiente molestiae quaerat ullam sit odit nesciunt eos?
+                            I am a junior one though <br />
+                            I'm currently a third grade student of <strong>ENI</strong> or Ecole Nationale d'Informatique at Fianarantsoa, Madagascar <br/><br />
+                            And also, my name is kind of hard to remember, so yes, you can just call me <strong>Doneli</strong>
                         </span>
                     </v-col>
                 </v-row>
