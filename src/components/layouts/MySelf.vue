@@ -46,12 +46,12 @@
                         <v-expansion-panels v-model="panel_1">
 
                             <v-expansion-panel v-for="desktop in desktops" :key="desktop.name">
-                                <v-expansion-panel-title class="text-h6">{{ desktop.name }}</v-expansion-panel-title>
+                                <v-expansion-panel-title class="text-h6 word-wrap">{{ desktop.name }}</v-expansion-panel-title>
                                 <v-expansion-panel-text>
                                     <v-list-item v-for="frame in desktop.frameworks" :key="frame.name">
                                         <v-row class="align-center">
-                                            <v-col cols="4"><span>{{ frame.name }}</span></v-col>
-                                            <v-col cols="8">
+                                            <v-col cols="12" sm="5" class="word-wrap"><span>{{ frame.name }}</span></v-col>
+                                            <v-col cols="12" sm="7">
                                                 <v-progress-linear class="text-pink-lighten-2 bg-grey-lighten-3" rounded
                                                     :model-value="frame.value"></v-progress-linear>
                                             </v-col>
@@ -62,8 +62,8 @@
 
                                     <v-list-item>
                                         <v-row class="align-center">
-                                            <v-col cols="4" class="text-button font-weight-bold">Vanilla</v-col>
-                                            <v-col cols="8">
+                                            <v-col cols="12" sm="5" class="text-button font-weight-bold word-wrap"><span>Vanilla</span></v-col>
+                                            <v-col cols="12" sm="7">
                                                 <v-progress-linear class="text-pink-lighten-1 bg-grey-lighten-3" rounded
                                                     :model-value="desktop.vanilla" :height="10"></v-progress-linear>
                                             </v-col>
@@ -84,12 +84,12 @@
                         <v-expansion-panels v-model="panel_2">
 
                             <v-expansion-panel v-for="web in webs" :key="web.name">
-                                <v-expansion-panel-title class="text-h6">{{ web.name }}</v-expansion-panel-title>
+                                <v-expansion-panel-title class="text-h6 word-wrap">{{ web.name }}</v-expansion-panel-title>
                                 <v-expansion-panel-text>
                                     <v-list-item v-for="frame in web.frameworks" :key="frame.name">
                                         <v-row class="align-center">
-                                            <v-col cols="4"><span>{{ frame.name }}</span></v-col>
-                                            <v-col cols="8">
+                                            <v-col cols="12" sm="5" class="word-wrap"><span>{{ frame.name }}</span></v-col>
+                                            <v-col cols="12" sm="7">
                                                 <v-progress-linear class="text-pink-lighten-2 bg-grey-lighten-3" rounded
                                                     :model-value="frame.value"></v-progress-linear>
                                             </v-col>
@@ -100,8 +100,8 @@
 
                                     <v-list-item>
                                         <v-row class="align-center">
-                                            <v-col cols="4" class="text-button font-weight-bold">Vanilla</v-col>
-                                            <v-col cols="8">
+                                            <v-col cols="12" sm="5"><span class="text-button font-weight-bold word-wrap">Vanilla</span></v-col>
+                                            <v-col cols="12" sm="7">
                                                 <v-progress-linear class="text-pink-lighten-1 bg-grey-lighten-3" rounded
                                                     :model-value="web.vanilla" :height="10"></v-progress-linear>
                                             </v-col>
@@ -194,7 +194,7 @@ const webs = ref([
         'vanilla': 85,
         'frameworks': [
             {
-                'name': 'TailwindCSS',
+                'name': 'Tailwind',
                 'value': 55
             },
             {

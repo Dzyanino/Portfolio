@@ -28,7 +28,15 @@
 */
 /* ------------ Main colors ------------ */
 
+
+
 /* ------------ Typography ------------ */
+a {
+  text-decoration: none;
+}
+
+
+
 
 .text-it-title,
 .text-ot-title {
@@ -76,3 +84,11 @@ about-section,
   }
 }
 /* ------------ Typography ------------ */
+
+
+/* ------------ Other ------------ */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ------------ Other ------------ */

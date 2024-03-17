@@ -5,9 +5,9 @@
         <v-container>
             <h2 class="text-inter-title h-screen d-flex align-center justify-center">What can i do ?</h2>
             <v-lazy transition="slide-y-reverse-transition" :options="{ 'threshold': 1 }" :min-height="280">
+                <h2 class="text-inter-subtitle text-center text-md-left mt-16 pt-16 mb-16"># My projects</h2>
                 <v-row class="align-center">
 
-                    <h2 class="text-inter-subtitle text-center text-md-left mt-16 pt-16"># My Projects</h2>
                     <v-col cols="12" class="text-center text-md-start">
                         <v-carousel cycle hide-delimiters :show-arrows="false">
                             <v-carousel-item>
