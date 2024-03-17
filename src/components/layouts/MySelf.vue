@@ -26,7 +26,7 @@
                         </span>
                         <span class="text-ot-description">
                             I am a junior one though <br />
-                            I'm currently a third grade student of <strong>ENI</strong> or Ecole Nationale d'Informatique at Fianarantsoa, Madagascar <br/><br />
+                            I'm currently a third year student at the University of <strong>ENI</strong> or Ecole Nationale d'Informatique at Fianarantsoa, Madagascar <br/><br />
                             And also, my name is kind of hard to remember, so yes, you can just call me <strong>Doneli</strong>
                         </span>
                     </v-col>
