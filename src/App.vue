@@ -2,10 +2,8 @@
   <v-app>
     <v-app-bar scroll-behavior="elevate" class="bg-teal-lighten-2">
       <template v-slot:prepend>
-        <v-app-bar-nav-icon
-          class="hidden-sm-and-up rounded"
-          @click.stop="navigation = !navigation"
-        ></v-app-bar-nav-icon>
+        <v-app-bar-nav-icon class="hidden-sm-and-up rounded"
+          @click.stop="navigation = !navigation"></v-app-bar-nav-icon>
       </template>
       <v-app-bar-title class="d-none d-sm-flex">Dzyanino</v-app-bar-title>
       <template v-slot:append>
@@ -21,16 +19,8 @@
       </template>
     </v-app-bar>
 
-    <v-navigation-drawer
-      temporary
-      v-model="navigation"
-      class="bg-teal-lighten-2"
-    >
-      <v-list-item
-        title="Dzyanino"
-        subtitle="Software developer"
-        class="hidden-sm-and-up"
-      ></v-list-item>
+    <v-navigation-drawer temporary v-model="navigation" class="bg-teal-lighten-2">
+      <v-list-item title="Dzyanino" subtitle="Software developer" class="hidden-sm-and-up"></v-list-item>
       <v-divider class="mt-2 hidden-sm-and-up"></v-divider>
       <v-list-item link prepend-icon="mdi-information" class="py-4 text-white">
         <a href="#about" class="text-white">About</a>
@@ -68,11 +58,7 @@
           <v-col cols="12" md="6">
             <h3 class="mb-2">Illustrations by</h3>
             <v-list-item class="py-3">
-              <a
-                target="_blank"
-                href="https://storyset.com/"
-                class="text-white"
-              >
+              <a target="_blank" href="https://storyset.com/" class="text-white">
                 <v-icon>mdi-link-variant</v-icon>
                 Storyset
               </a>
@@ -80,10 +66,8 @@
           </v-col>
         </v-row>
         <div class="d-flex align-center justify-center text-center mt-16">
-          <span
-            >&copy; Copyright <strong>Doneli Dzyanino MANASINTSOA</strong> -
-            {{ new Date().getFullYear() }}</span
-          >
+          <span>&copy; Copyright <strong>Doneli Dzyanino MANASINTSOA</strong> -
+            {{ new Date().getFullYear() }}</span>
         </div>
       </v-container>
     </v-footer>
@@ -95,11 +79,4 @@ import { ref } from "vue";
 import Index from "./components/Index.vue";
 
 const navigation = ref(false);
-
-// const scrollMeTo = (idElement) => {
-//   const element = document.getElementById(idElement);
-//   const top = element.offsetTop;
-
-//   window.scrollTo(0, top + 50);
-// };
 </script>
