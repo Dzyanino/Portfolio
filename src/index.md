@@ -13,7 +13,7 @@ hero:
       text: Know me more
       link: /about
 
-  image: "/dab.svg"
+  image: "/me.png"
 
 features:
   - title: Feature A
@@ -26,3 +26,9 @@ features:
   - title: Feature D
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
+<Card />
+
+<script setup>
+  import Card from "./components/Card.vue";
+</script>
