@@ -10,19 +10,26 @@ export default defineConfig({
         nav: [
             { text: "Home", link: "/" },
             { text: "About", link: "/about" },
+            { text: "Skills", link: "/skills" },
         ],
 
-        sidebar: [
-            {
-                text: "Examples",
-                items: [
-                    { text: "Markdown Examples", link: "/markdown-examples" },
-                    { text: "Runtime API Examples", link: "/api-examples" },
-                ],
-            },
-        ],
+        // sidebar: [
+        //     {
+        //         text: "Test",
+        //         items: [
+        //             { text: "Home", link: "/" },
+        //             { text: "About", link: "/about" },
+        //             { text: "Skills", link: "/skills" },
+        //         ],
+        //     },
+        // ],
 
         socialLinks: [{ icon: "github", link: "https://github.com/Dzyanino" }],
+
+        footer: {
+            message: "Yo man",
+            copyright: "Copyright 2024 Doneli Dzyanino M",
+        },
     },
 
     srcDir: "src",

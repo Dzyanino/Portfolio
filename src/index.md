@@ -10,15 +10,15 @@ hero:
   tagline: "Web & Software developer"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: About
+      text: Know me more
       link: /about
+
+  image: "/dab.svg"
 
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /about
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C

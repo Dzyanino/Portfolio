@@ -5,7 +5,7 @@ layout: home
 titleTemplate: Accueil
 
 hero:
-  name: "Bonjour,"
+  name: Bonjour,
   text: "Je suis Doneli Dzyanino"
   tagline: "Dévéloppeur Web & Logiciel"
   actions:
@@ -24,3 +24,9 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
+<!-- <script setup lang="ts">
+  import { ref } from 'vue';
+
+  const currentHour: String = new Date().getHours() < 18 ? "Bonjour" : "Bonsoir";
+</script> -->
