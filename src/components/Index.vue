@@ -9,7 +9,7 @@
     </v-container>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import Intro from './layouts/Intro.vue';
 import MySelf from './layouts/MySelf.vue';
 import Projects from './layouts/Projects.vue';

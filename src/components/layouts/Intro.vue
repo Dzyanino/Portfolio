@@ -12,7 +12,7 @@
           </h1>
           <span class="text-it-description">
             A friendly neighborhood software developer at your service,
-            for your low / medium-range application
+            for your low / medium-scale application
           </span>
           <v-btn color="pink-lighten-2" text="Know me more" append-icon="mdi-arrow-down"
             class="mt-3 rounded-pill"></v-btn>
@@ -35,4 +35,4 @@
   </svg>
 </template>
 
-<script setup></script>
+<script setup lang="ts"></script>

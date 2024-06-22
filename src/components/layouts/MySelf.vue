@@ -12,7 +12,7 @@
           <!-- First col -->
           <v-col cols="12" md="6" class="text-center text-md-start">
             <div>
-              <v-img aspect-ratio="1" src="@/assets/images/croped.png"></v-img>
+              <v-img aspect-ratio="1" src="@/assets/images/teamwork.png"></v-img>
             </div>
           </v-col>
 
