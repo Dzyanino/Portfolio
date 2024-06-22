@@ -4,11 +4,12 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     title: "Dzyanino",
     description: "Official website of Doneli Dzyanino",
+
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: "Home", link: "/" },
-            { text: "Examples", link: "/markdown-examples" },
+            { text: "About", link: "/about" },
         ],
 
         sidebar: [
@@ -23,5 +24,18 @@ export default defineConfig({
 
         socialLinks: [{ icon: "github", link: "https://github.com/Dzyanino" }],
     },
+
     srcDir: "src",
+
+    locales: {
+        root: {
+            label: "English",
+            lang: "en",
+        },
+        fr: {
+            label: "French",
+            lang: "fr",
+            link: "/fr",
+        },
+    },
 });

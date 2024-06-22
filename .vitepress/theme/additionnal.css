@@ -1,0 +1,13 @@
+:root {
+    --vp-font-family-base: "Titillium Web";
+    /* --vp-font-family-base: "Quicksand"; */
+    /* --vp-font-family-base: "Minecraft"; */
+    /* --vp-font-family-base: "Monster Friend Fore"; */
+    /* --vp-font-family-base: "PixelGameFont"; */
+    /* --vp-font-family-base: "Spongeboy Me Bob"; */
+    --vp-font-family-mono: "Roboto Mono";
+}
+
+/* .test {
+    background-color: red;
+} */
