@@ -14,21 +14,14 @@ hero:
       link: /about
 
   image: "/me.png"
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /about
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature D
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-<Card />
+## My latest projects { style="margin-top: 64px;" }
+
+<Projects />
+
+## The suite
 
 <script setup>
-  import Card from "./components/Card.vue";
+  import Projects from "./layouts/Projects.vue";
 </script>
