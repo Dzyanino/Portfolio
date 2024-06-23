@@ -34,10 +34,10 @@ export default defineConfig({
             label: "English",
             lang: "en",
         },
-        // fr: {
-        //     label: "French",
-        //     lang: "fr",
-        //     link: "/fr",
-        // },
+        fr: {
+            label: "French",
+            lang: "fr",
+            link: "/fr",
+        },
     },
 });
