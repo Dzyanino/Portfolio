@@ -1,48 +1,46 @@
 # About me
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla aliquet porttitor lacus luctus. Rhoncus mattis rhoncus urna neque viverra. Nam libero justo laoreet sit amet cursus sit amet dictum. Laoreet non curabitur gravida arcu ac tortor.
+> My full name is **Doneli Dzyanino MANASINTSOA**, I'm 21, and I came from `Madagascar`. I'm a third year college student at [ENI Fianarantsoa](https://eni.mg), and I'm an Open-source software enjoyer, doing my best to contribute to them.
+
+> I prefer salty meals other sweet ones.
+
+> I have many hobbies, even if I don't consecrate them that much of a time anymore.
+>>
+>> * `Reading` - Manga and Novels
+>>
+>> * `Music` - I love listening to lyricless musics while coding
+>>
+>> * `Animation / Pixel Art` - Need a lot of training :muscle:
+>>
+>> * `Video Games` - My favorite
 
 ## Work experiences
 
-**2022 - Present**
+**September 2023 - December 2023**
 
-> `💻 Full-Stack dev @ Lorem Ipsum`
+> `💻 Web developer @ S.P.A.T Madagascar`
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-**2020 - 2022**
-
-> `💻 Full-Stack dev @ Lorem Ipsum`
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-**2018 - 2020**
-
-> `💻 Junior Full-Stack dev @ Lorem Ipsum`
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* Laravel
+* Vue & Vuetify
 
 ## Education & Certifications
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Those are where I found and deepened my [skills](/skills)
 
-**2022 - Present**
+**2024 - Present**
 
-> `🏆 Graduated from Lorem Ipsum`
+> `📚 3rd Year College Student @ Ecole Nationale d'Informatique`
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* Focused on Deployement, Containers, Cyber-security and full-stack frameworks.
 
-**2020 - 2022**
+**2022 - 2023**
 
-> `📚 Student @ Lorem Ipsum`
+> `📚 2nd Year College Student @ Ecole Nationale d'Informatique`
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* Focused on Desktop applications, popular `Javascript` frameworks and DBMS.
 
-**2018 - 2020**
+**2021 - 2022**
 
-> `📚 Student @ Lorem Ipsum`
+> `📚 1st Year College Student @ Ecole Nationale d'Informatique`
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* Getting started with Web development.

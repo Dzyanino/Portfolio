@@ -13,22 +13,17 @@ export default defineConfig({
             { text: "Skills", link: "/skills" },
         ],
 
-        // sidebar: [
-        //     {
-        //         text: "Test",
-        //         items: [
-        //             { text: "Home", link: "/" },
-        //             { text: "About", link: "/about" },
-        //             { text: "Skills", link: "/skills" },
-        //         ],
-        //     },
-        // ],
-
-        socialLinks: [{ icon: "github", link: "https://github.com/Dzyanino" }],
+        socialLinks: [
+            { icon: "github", link: "https://github.com/Dzyanino" },
+            {
+                icon: "facebook",
+                link: "https://web.facebook.com/donelidzyanino.manasintsoa",
+            },
+            { icon: "twitter", link: "https://x.com/dzyanino_" },
+        ],
 
         footer: {
-            message: "Yo man",
-            copyright: "Copyright 2024 Doneli Dzyanino M",
+            copyright: "Copyright &copy; 2024 - Doneli Dzyanino MANASINTSOA",
         },
     },
 

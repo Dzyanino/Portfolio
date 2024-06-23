@@ -12,15 +12,16 @@ hero:
     - theme: brand
       text: Know me more
       link: /about
+    - theme: alt
+      text: Contact
+      link: /skills
 
   image: "/me.png"
 ---
 
-## My latest projects { style="margin-top: 64px;" }
+## My latest projects { style="margin-top: 72px;" }
 
 <Projects />
-
-## The suite
 
 <script setup>
   import Projects from "./layouts/Projects.vue";
