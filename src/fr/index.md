@@ -13,7 +13,7 @@ hero:
       text: Know me more
       link: /fr/about
 
-  image: "/me.png"
+  image: "archlinux-logo.png"
 ---
 
 ## My latest projects { style="margin-top: 72px;" }
