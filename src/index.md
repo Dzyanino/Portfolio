@@ -12,9 +12,9 @@ hero:
     - theme: brand
       text: Know me more
       link: /about
-    - theme: alt
-      text: Contact
-      link: /skills
+    # - theme: alt
+    #   text: Contact
+    #   link: /skills
 
   image: "/me.png"
 ---

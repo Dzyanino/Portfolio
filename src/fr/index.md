@@ -2,31 +2,24 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-titleTemplate: Accueil
+titleTemplate: Home
 
 hero:
-  name: Bonjour,
-  text: "Je suis Doneli Dzyanino"
-  tagline: "Dévéloppeur Web & Logiciel"
+  name: "Hi there,"
+  text: "I'm Doneli Dzyanino"
+  tagline: "Web & Software developer"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Know me more
+      link: /fr/about
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  image: "/me.png"
 ---
 
-<!-- <script setup lang="ts">
-  import { ref } from 'vue';
+## My latest projects { style="margin-top: 72px;" }
 
-  const currentHour: String = new Date().getHours() < 18 ? "Bonjour" : "Bonsoir";
-</script> -->
+<Projects />
+
+<script setup>
+  import Projects from "../layouts/Projects.vue";
+</script>
