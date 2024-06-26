@@ -11,7 +11,7 @@ const props = defineProps({
 <template>
     <v-col cols="12" md="6" lg="4" xl="3" v-for="(project, index) in projects" :key="index">
         <v-card flat class="custom-theme border-md rounded-lg">
-            <v-img :src="project.asset" height="200" class="align-end text-white"
+            <v-img :src="project.asset" height="150" class="align-end text-white"
                 gradient="to bottom, transparent, rgba(0,0,0,.05)" cover>
             </v-img>
             <v-card-title class="font-weight-bold">{{ project.title }}</v-card-title>
@@ -38,6 +38,7 @@ const props = defineProps({
 
 <style>
 .border-md {
+    border-color: transparent !important;
     transition: 400ms ease-out !important;
 }
 

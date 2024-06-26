@@ -1,98 +1,98 @@
-# Skills
+# Compétences
 
-> The sharpy weapons that I'm confident with.
+> Mes armes au combat.
 
-## Programming tools
+## Outils de Programmation
 
-### Front-end
+### Front-End
 
 * `Vue 3` + `Vite`
 
-> the ones that I'm the most skilled with, and what I use as a main option when developing Web applications, as they are powerfull, efficient and easy to learn.
+> Ce sont mes outils de prédilection pour le développement d'applications web. Ils sont puissants, performants et faciles à apprendre.
 
 * `Vuetify 3`
 
-> Incredibly progressive Vue.js component library.
+> Librairie de composants Vue.js incroyablement progressive.
 
 * `VitePress`
 
-> Just got started with it for building Static Websites (this portfolio as an example).
+> Je viens de commencer à l'utiliser pour construire des sites web statiques (ce portfolio en est un exemple).
 
 * `TypeScript`
 
-> Got started with it recently too, but thanks to `Javascript`, the learning phase was shorter than expected.
+> J'ai également commencé récemment avec TypeScript, et grâce à mes connaissances en JavaScript, l'apprentissage a été plus rapide que prévu.
 
 * `PyQt`
 
-> Qt library for Python
+> Bibliothèque Qt pour Python.
 
 * `CSS3` `SCSS` `SASS` `Bootstrap 5`
 
-> CSS frameworks and Pre-processors
+> Frameworks et préprocesseurs CSS.
 
 ### Back-End
 
 * `Node`
 
-> Javascript plateform tool based on the `V8` Engine
+> Plateforme JavaScript basée sur le moteur V8.
 
 * `Express`
 
-> A Node.js framework for server routing endpoint. By far the best that I used, coming along with `Nodemon`.
+> Framework Node.js pour le routage des **end-points** du serveur. De loin le meilleur que j'ai utilisé, accompagné de `Nodemon`.
 
 * `Sequelize`
 
-> An Object-Relational-Mapping or ORM for making database requests, and querying data using Models and Controllers.
+> Un ORM (Object Relational Mapper) permettant de faire des requêtes de base de données et d'interroger des données à l'aide de modèles et de contrôleurs.
 
 * `Laravel`
 
-> A PHP framework for building full-stack application with ease, thanks to its built-in ORM `Eloquent`, and the `Blade` views.
+> Framework PHP pour construire facilement des applications full-stack, grâce à son ORM intégré `Eloquent` et aux vues de `Blade`.
 
 * `Python 3`
 
-> Scripted and interpreted language for almost everything. Really powerfull and versatile.
+> Langage scripté et interprété pour presque tout. Vraiment puissant et polyvalent.
 
 * `Java`
 
-> An Object language for building cross-plateform applications.
+> Langage orienté objet pour construire des applications multi-plateformes.
 
 * `C#`
 
-> Microsoft's next step after C++ for making desktop applications with `.DOT Net` and web ones with `.ASP Net`.
+> La prochaine étape de Microsoft après C++ pour la création d'applications de bureau avec `.NET` et d'applications web avec `.ASP Net`.
 
 * `SQL`
 
-## DBMS
+## SGBD (Système de Gestion de Base de Données)
 
 * `PostgreSQL`
 
-> A free, open source and mostly the best Database Management System in the world.
+> Un système de gestion de base de données gratuit, open-source et considéré comme l'un des meilleurs au monde.
 
 * `MySQL` `MariaDB`
 
-> MySQL is Oracle's paid DBMS, and MariaDB it's forked and free version.
+> MySQL est un des SGBD payants d'Oracle, et MariaDB en est une version gratuite dérivée.
 
-## Virtualization tools
+## Outils de Virtualisation
 
 * `Virtual Box`
 
-> A free software for virtualizing operating systems and more.
+> Un logiciel gratuit pour virtualiser des systèmes d'exploitation et plus encore.
 
 * `GNS 3`
 
-> For virtualizing network and more.
+> Pour la virtualisation de réseau et plus.
 
-## Containerization
+## Conteneurisation
 
 * `Docker`
 
-> A tool for managing, shipping container and deploying services around the world with Cloud computing.
+> Un outil de gestion, d'expédition de conteneurs et de déploiement de services à travers le monde avec le Cloud computing.
 
-## Skills table
+## Tableau des compétences
 
-|   Front-End   |   Back-End   |   DBMS       |   Virtualization   |   Containerization   |
+|   Front-End   |   Back-End   |   SGBD       |   Virtualisation   |   Conteneurisation   |
 |:-------------:|:------------:|:------------:|:------------------:|:--------------------:|
-| Vue 3         | Node.js      | PostgreSQl   | Virtual Box        | Docker               |
+| Vue 3         | Node.js      | PostgreSQL   | Virtual Box        | Docker               |
 | Vite          | Express      | MySQL        | GNS 3              |                      |
 | TypeScript    | Laravel      |              |                    |                      |
 | VitePress     | Sequelize    |              |                    |                      |
@@ -100,14 +100,14 @@
 | CSS, SCSS...  | Java         |              |                    |                      |
 |               | C#           |              |                    |                      |
 
-## Still needs improvements
+## Points à améliorer
 
-While keeping to follow the progressive way, those are actually what I seem to lack, based on critics and reviews, and that I'm trying to overcome
+Dans un souci de constant progrès, voici mes points faibles d'après les critiques et les retours que j'ai reçus, et que je m'efforce de surmonter.
 
 * `UI/UX`
 
->> My UIs aren't that intuitive
+> Mes interfaces utilisateur ne sont pas très intuitives.
 
-* `Bigger projects`
+* `Projets plus importants`
 
->> Need to make or take part of bigger projects, even if it's personal
+> J'ai besoin de réaliser ou de participer à des projets plus importants, même s'ils sont personnels.

@@ -2,24 +2,24 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-titleTemplate: Home
+titleTemplate: Accueil
 
 hero:
-  name: "Hi there,"
-  text: "I'm Doneli Dzyanino"
-  tagline: "Web & Software developer"
+  name: "Bonjour,"
+  text: "Je suis Doneli Dzyanino"
+  tagline: "Développeur Web & Logiciel"
   actions:
     - theme: brand
-      text: Know me more
+      text: En savoir plus
       link: /fr/about
 
-  image: "archlinux-logo.png"
+  image: "/me.png"
 ---
 
-## My latest projects { style="margin-top: 72px;" }
+## Mes derniers projects { style="margin-top: 72px;" }
 
-<Projects />
+<ProjectsFr />
 
 <script setup>
-  import Projects from "../layouts/Projects.vue";
+  import ProjectsFr from "../layouts/ProjectsFr.vue";
 </script>

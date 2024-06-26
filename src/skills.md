@@ -8,7 +8,7 @@
 
 * `Vue 3` + `Vite`
 
-> the ones that I'm the most skilled with, and what I use as a main option when developing Web applications, as they are powerfull, efficient and easy to learn.
+> The ones that I'm the most skilled with, and what I use as a main option when developing Web applications, as they are powerfull, efficient and easy to learn.
 
 * `Vuetify 3`
 
@@ -42,7 +42,7 @@
 
 * `Sequelize`
 
-> An Object-Relational-Mapping or ORM for making database requests, and querying data using Models and Controllers.
+> An Object-Relational-Mapper or ORM for making database requests, and querying data using Models and Controllers.
 
 * `Laravel`
 
@@ -70,7 +70,7 @@
 
 * `MySQL` `MariaDB`
 
-> MySQL is Oracle's paid DBMS, and MariaDB it's forked and free version.
+> MySQL is one of Oracle's paid DBMS, and MariaDB it's forked and free version.
 
 ## Virtualization tools
 
@@ -92,7 +92,7 @@
 
 |   Front-End   |   Back-End   |   DBMS       |   Virtualization   |   Containerization   |
 |:-------------:|:------------:|:------------:|:------------------:|:--------------------:|
-| Vue 3         | Node.js      | PostgreSQl   | Virtual Box        | Docker               |
+| Vue 3         | Node.js      | PostgreSQL   | Virtual Box        | Docker               |
 | Vite          | Express      | MySQL        | GNS 3              |                      |
 | TypeScript    | Laravel      |              |                    |                      |
 | VitePress     | Sequelize    |              |                    |                      |
@@ -102,12 +102,12 @@
 
 ## Still needs improvements
 
-While keeping to follow the progressive way, those are actually what I seem to lack, based on critics and reviews, and that I'm trying to overcome
+While keeping to follow the progressive way, those are actually what I seem to lack, based on critics and reviews, and that I'm trying to overcome.
 
 * `UI/UX`
 
->> My UIs aren't that intuitive
+> My UIs aren't that intuitive
 
 * `Bigger projects`
 
->> Need to make or take part of bigger projects, even if it's personal
+> Need to make or take part of bigger projects, even if it's personal

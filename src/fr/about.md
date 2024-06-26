@@ -1,46 +1,46 @@
-# About me
+# À propos de moi
 
-> My full name is **Doneli Dzyanino MANASINTSOA**, I'm 21, and I came from `Madagascar`. I'm a third year college student at [ENI Fianarantsoa](https://eni.mg), and I'm an Open-source software enjoyer, doing my best to contribute to them.
+> Je m'appelle **Doneli Dzyanino MANASINTSOA**, j'ai 21 ans et je viens de `Madagascar`. Je suis étudiant en troisième année à l' [ENI Fianarantsoa](https://eni.mg) et un passionné de logiciels open-source, faisant de mon mieux pour y contribuer.
 
-> I prefer salty meals other sweet ones.
+> Je préfère les plats salés aux sucrés.
 
-> I have many hobbies, even if I don't consecrate them that much of a time anymore.
->>
->> * `Reading` - Manga and Novels
->>
->> * `Music` - I love listening to lyricless/wordless musics while coding
->>
->> * `Animation / Pixel Art` - Need a lot of training :muscle:
->>
->> * `Video Games` - My favorite
+> J'ai de nombreux hobbies, même si je ne leur consacre plus autant de temps.
+>
+> * `Lecture` - Manga et Romans
+>
+> * `Musique` - J'adore écouter de la musique sans paroles pendant que je code
+>
+> * `Animation / Pixel Art` - Besoin de beaucoup d'entraînement :muscle:
+>
+> * `Jeux Vidéo` - Mes préférés
 
-## Work experiences
+## Expériences professionnelles
 
-**September 2023 - December 2023**
+**Septembre 2023 - Décembre 2023**
 
-> `💻 Web developer @ S.P.A.T Madagascar`
+> `💻 Développeur Web @ S.P.A.T Madagascar`
 
 * Laravel
 * Vue & Vuetify
 
-## Education & Certifications
+## Formation et Certifications
 
-> Those are where I found and deepened my [skills](/skills)
+> C'est ici que j'ai trouvé et approfondi mes [compétences](/fr/skills)
 
-**2024 - Present**
+**2024 - Présent**
 
-> `📚 3rd Year College Student @ Ecole Nationale d'Informatique`
+> `📚 Étudiant en 3ème année à l'École Nationale d'Informatique`
 
-* Focused on Deployement, Containers, Cyber-security and full-stack frameworks.
+* Concentré sur le déploiement, les conteneurs, la cybersécurité et les frameworks full-stack.
 
 **2022 - 2023**
 
-> `📚 2nd Year College Student @ Ecole Nationale d'Informatique`
+> `📚 Étudiant en 2ème année à l'École Nationale d'Informatique`
 
-* Focused on Desktop applications, popular `Javascript` frameworks and DBMS.
+* Concentré sur les applications de bureau, les frameworks Javascript populaires et les SGBD.
 
 **2021 - 2022**
 
-> `📚 1st Year College Student @ Ecole Nationale d'Informatique`
+> `📚 Étudiant en 1ère année à l'École Nationale d'Informatique`
 
-* Getting started with Web development.
+* Initiation au développement Web.

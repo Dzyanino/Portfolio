@@ -5,14 +5,14 @@
 > I prefer salty meals other sweet ones.
 
 > I have many hobbies, even if I don't consecrate them that much of a time anymore.
->>
->> * `Reading` - Manga and Novels
->>
->> * `Music` - I love listening to lyricless/wordless musics while coding
->>
->> * `Animation / Pixel Art` - Need a lot of training :muscle:
->>
->> * `Video Games` - My favorite
+>
+> * `Reading` - Manga and Novels
+>
+> * `Music` - I love listening to lyricless/wordless musics while coding
+>
+> * `Animation / Pixel Art` - Need a lot of training :muscle:
+>
+> * `Video Games` - My favorites
 
 ## Work experiences
 

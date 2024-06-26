@@ -79,6 +79,7 @@ export default defineConfig({
         footer: {
             copyright: "Copyright &copy; 2024 - Doneli Dzyanino MANASINTSOA",
         },
+        externalLinkIcon: true,
     },
 
     srcDir: "src",
@@ -92,6 +93,29 @@ export default defineConfig({
             label: "French",
             lang: "fr",
             link: "/fr",
+            themeConfig: {
+                nav: [
+                    { text: "Accueil", link: "/fr/" },
+                    { text: "À propos", link: "/fr/about" },
+                    { text: "Compétences", link: "/fr/skills" },
+                ],
+
+                darkModeSwitchTitle: "Mode sombre",
+                lightModeSwitchTitle: "Mode clair",
+                darkModeSwitchLabel: "Thème",
+
+                outline: {
+                    label: "Sur cette page",
+                },
+
+                returnToTopLabel: "Revenir en haut",
+
+                footer: {
+                    copyright:
+                        "Copyright &copy; 2024 - Doneli Dzyanino MANASINTSOA",
+                },
+                externalLinkIcon: true,
+            },
         },
     },
     markdown: {
