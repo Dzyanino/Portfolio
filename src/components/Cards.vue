@@ -10,9 +10,9 @@ const props = defineProps({
 
 <template>
     <v-col cols="12" md="6" lg="4" xl="3" v-for="(project, index) in projects" :key="index">
-        <v-card flat class="bg-white border-md rounded-lg">
+        <v-card flat class="custom-theme border-md rounded-lg">
             <v-img :src="project.asset" height="200" class="align-end text-white"
-                gradient="to bottom, transparent, rgba(0,0,0,.1)" cover>
+                gradient="to bottom, transparent, rgba(0,0,0,.05)" cover>
             </v-img>
             <v-card-title class="font-weight-bold">{{ project.title }}</v-card-title>
             <v-card-subtitle class="">
@@ -43,5 +43,15 @@ const props = defineProps({
 
 .border-md:hover {
     border-color: #47caff !important;
+}
+
+:root .custom-theme {
+    background-color: var(--vp-c-bg-soft);
+    color: var(--vp-c-gray);
+}
+
+:root.dark .custom-theme {
+    background-color: var(--vp-c-bg-soft);
+    color: var(--vp-c-gray);
 }
 </style>

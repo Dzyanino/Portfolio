@@ -16,7 +16,7 @@ hero:
     #   text: Contact
     #   link: /skills
 
-  image: "/archlinux-logo.png"
+  image: "/me.png"
 ---
 
 ## My latest projects { style="margin-top: 72px;" }
