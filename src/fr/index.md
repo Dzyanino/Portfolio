@@ -13,7 +13,7 @@ hero:
       text: En savoir plus
       link: /fr/about
 
-  image: "/me.png"
+  image: "/profile.png"
 ---
 
 ## Mes derniers projects { style="margin-top: 72px;" }
